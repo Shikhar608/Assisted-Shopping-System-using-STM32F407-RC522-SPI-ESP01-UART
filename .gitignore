@@ -1,0 +1,8 @@
+*.uvoptx
+*.uvprojx
+*.axf
+*.o
+*.map
+*.lst
+*.dep
+*.crf
